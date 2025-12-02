@@ -22,22 +22,23 @@ You can explore the full list of projects below:
 ---
 
 ## 🔐 Cybersecurity — Upcoming Projects
-I am actively developing several cybersecurity-focused projects that combine system security, ethical hacking techniques, and automation.  
-These include:
 
-- **Network traffic analysis** using packet inspection and anomaly scoring  
-- **Attack detection & prevention workflows** for securing system architectures  
-- **Automated security scripts** for monitoring, auditing, and hardening environments  
-- **Practical cybersecurity labs** exploring real attack vectors and defense mechanisms  
+I am currently developing several small but practical cybersecurity exercises that help me strengthen my fundamentals and prepare for more advanced work.
 
-These projects are currently under construction and will be added soon.  
-They reflect my commitment to building **real, applicable cybersecurity skills** aligned with professional engineering standards.
+These projects include:
+- Basic **network scanning & enumeration** using Nmap  
+- Small **Linux security configurations** (users, permissions, SSH hardening)  
+- Hands-on **Bash/Python scripts** used for monitoring and automation  
+- Beginner-friendly **CTF challenges** to practice problem-solving and real attack scenarios  
 
----
+They are not fully structured into repositories yet, but they reflect my commitment to improving step-by-step and building solid cybersecurity skills through real practice.
+
+More complete cybersecurity projects will be added soon as I continue progressing.
+
 
 ## 🚀 Want to explore more?
 See all my repositories here: 👉 [my repositories](https://github.com/yassine674?tab=repositories)
 
----
+
 
 ### ✨ Thank you for visiting my portfolio!
