@@ -6,9 +6,6 @@ Welcome to my structured portfolio containing all the major projects I have deve
 Each project is stored in its own dedicated repository and documented with clear explanations, professional architecture, and technical depth.
 </div>
 
----
-
-## 📊 At a Glance
 
 <div align="center">
 
