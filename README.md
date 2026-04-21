@@ -1,21 +1,9 @@
 # 📂 My Projects Portfolio
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SOC+Operations+%7C+SIEM+Engineering;Threat+Detection+%7C+Incident+Response;Machine+Learning+%7C+Computer+Vision;Secure+Application+Development" alt="Typing SVG" align="center"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-moumoun)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassine674)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine127mn@gmail.com)
-
-**Computer Engineering & Cybersecurity Student — INSA Hauts-de-France**
-
-*Passionate about defensive security operations, threat detection, and intelligent systems*
-
-</div>
 <div>
 Welcome to my structured portfolio containing all the major projects I have developed across Cybersecurity and AI Engineering.
+  
 Each project is stored in its own dedicated repository and documented with clear explanations, professional architecture, and technical depth.
-You can explore the full list of projects below:
 </div>
 
 ---
