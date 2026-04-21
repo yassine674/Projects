@@ -1,4 +1,5 @@
 # 📂 My Projects Portfolio
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SOC+Operations+%7C+SIEM+Engineering;Threat+Detection+%7C+Incident+Response;Machine+Learning+%7C+Computer+Vision;Secure+Application+Development" alt="Typing SVG" align="center"/>
 
